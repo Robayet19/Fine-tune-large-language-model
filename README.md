@@ -11,8 +11,3 @@ Required packages/libraries:
 3. sklearn
 4. wandb
 5. evaluate
-
-
-Install packages if necessary
-
-   
